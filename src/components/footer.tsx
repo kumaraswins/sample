@@ -4,7 +4,7 @@ import Typography from "@material-ui/core/Typography"
 import Box from "@material-ui/core/Box"
 import Hidden from "@material-ui/core/Hidden"
 import Link from "@material-ui/core/Link"
-import FabDownload from "./fab-download"
+//import FabDownload from "./fab-download"
 
 const Footer = () => {
   const footerLinks = [
@@ -113,7 +113,7 @@ const Footer = () => {
         >
          
         </Grid>
-        <FabDownload />
+        
       </Box>
     </React.Fragment>
   )
